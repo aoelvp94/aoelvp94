@@ -44,11 +44,13 @@ Note: I use GitLab in my work! :P
 ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-05122A?style=flat&logo=docker-compose)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Apache_Airflow-05122A?style=flat&logo=apache-airflow)&nbsp;
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=mlflow)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-web-services)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
 ![GIS](https://img.shields.io/badge/-GIS-05122A?style=flat&logo=gis)&nbsp;
 ![Superset](https://img.shields.io/badge/-Apache_Superset-05122A?style=flat&logo=apache-superset)&nbsp;
 ![Dash](https://img.shields.io/badge/Dash-05122A?style=flat&logo=Dash)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/Github_Actions-05122A?style=flat&logo=GitHub-Actions)&nbsp;
 </details>
 
 <!--
