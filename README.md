@@ -13,30 +13,16 @@ I am Magister in Management and Data Analytics (UTDT) and Information System Eng
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11100099447&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
-<details>
-  <summary>:paw_prints:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
-  <br/>
-  <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aoelvp94&show_icons=true&count_private=true&theme=dark" width="355"></a><br/>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoelvp94&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
-   </p>  
-</details>
-
-
-Note: I use GitLab in my work! :P
 
 <details>
 	<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>My Stack</b></summary>
 	<br/>
  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![Bash](https://img.shields.io/badge/-BASH-05122A?style=flat&logo=gnu-bash)&nbsp;
 ![Git](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Impala](https://img.shields.io/badge/impala-05122A?style=flat&logo=cloudera-impala)&nbsp;
-![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
 ![Spark](https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apache-spark)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
