@@ -2,7 +2,6 @@
 I am Aldo, a data nerd. I love solving problems that help companies get real value from their data. I really enjoy facing challenges about data.
 Currently, I am working as a Data Engineer in a full remote consulting company, Mutt Data, whose main mission is to build automated data products. Therefore, we apply the modern stack of python and cloud solutions technologies with the objective to solve business and data problems.
 I am Magister in Management and Data Analytics (UTDT) and Information System Engineer (UTN FRT).
-I hope to achieve AWS and GCP certifications to consolidate technical knowledge.
 
 **More about me on:**
 
